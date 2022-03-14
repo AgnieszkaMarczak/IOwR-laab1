@@ -1,0 +1,3 @@
+To jest plik README1.md
+Utworzyłam na github nowe repozytorium o nazwie IOwR-laab1
+Aby móc wysyłać zmiany konieczne było wygenerowanie klucza SSH...
